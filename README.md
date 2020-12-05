@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/jonashellmann/">
-    <img src="https://github-readme-stats.vercel.app/api?username=jonashellmann&show_icons=true&theme=radical&include_all_commits=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonashellmann&theme=radical&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jonashellmann&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonashellmann&theme=radical&layout=compact&hide=HTML,CSS&langs_count=8" />
   </a>
 </p>
