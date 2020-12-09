@@ -3,6 +3,7 @@
 - 🔭 My main project here on Github is [EveryDocs](https://github.com/jonashellmann/everydocs-core).
 - 🌱 Currently learning Python by participating in the [InformatiCup 2021](https://github.com/informatiCup/informatiCup2021)
 - 📫 Find ways to contact me on my website: [https://jonas-hellmann.de/en](https://jonas-hellmann.de/en)
+- 😎 [Rockstar](https://codewithrockstar.com/) developer 
 
 ## 📈 GitHub Stats
 
