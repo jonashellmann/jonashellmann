@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 My main project here on Github is [EveryDocs](https://github.com/jonashellmann/everydocs-core).
-- 🌱 Currently learning Python by participating in the [InformatiCup 2021](https://github.com/informatiCup/informatiCup2021)
+- 🌱 Participated in the [InformatiCup 2021](https://github.com/informatiCup/informatiCup2021) with my team's solution for the game _spe_ed_: https://github.com/jonashellmann/informaticup21-team-chillow
 - 📫 Find ways to contact me on my website: [https://jonas-hellmann.de/en](https://jonas-hellmann.de/en)
 - 😎 Creator of the [Liveticker](https://github.com/jonashellmann/liveticker-lang) programming language!
 
