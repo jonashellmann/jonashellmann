@@ -13,5 +13,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonashellmann&theme=radical&layout=compact&hide=HTML,CSS&langs_count=8" />
   </a>
 </p>
-
-Test
